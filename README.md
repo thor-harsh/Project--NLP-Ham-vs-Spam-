@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project we'll be making a Linear SVC model for predicting a text message as a Spam vs Ham in Natural Language Processing.** <br></br>
+**In this project we'll be making a Linear SVC(Support Vector Classifier) model for predicting a text message as a Spam(illegitimate) vs Ham(legitimate) in Natural Language Processing.** <br></br>
 
 
 **Before jumping to the code lets understand Linear SVC(Model) and NLP(Natural Language Processing) First**...<br></br>
